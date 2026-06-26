@@ -22,7 +22,6 @@
 
 ## 📂 Структура проекта
 
-\`\`\`text
 university/
 ├── entities/       # Классы-сущности (Person, Student, Teacher, Course, Enrollment)
 ├── enums/          # Перечисления (Grade, StudentStatus, TeacherPosition)
@@ -30,7 +29,6 @@ university/
 ├── services/       # Бизнес-логика, CRUD-операции и хранение данных в массивах
 ├── util/           # Вспомогательные классы (расчет GPA)
 └── Main.java       # Точка входа в программу, главное консольное меню
-\`\`\`
 
 ## ⚙️ Как запустить проект
 
